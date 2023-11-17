@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="back_button">Back</string>
+    <string name="next">Next</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="dospem1">Dosen Pembimbing 1</string>
+    <string name="dospem2">Dosen Pembimbing 2</string>
+    <string name="judul">Judul</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="Haris">Haris Setyawan</string>
+    <string name="Rizky">Rizky Ramadhan</string>
+    <string name="Rizal">Rizal Fauzi</string>
+</resources>
